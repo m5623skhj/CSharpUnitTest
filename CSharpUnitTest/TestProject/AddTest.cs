@@ -1,6 +1,4 @@
-﻿using CSharpUnitTest;
-
-namespace UnitTestProject
+﻿namespace UnitTestProject
 {
     public class AddTest
     {
